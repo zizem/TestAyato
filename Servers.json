@@ -9,7 +9,9 @@
         { "name": "GAME-EU-3", "address": "79.127.241.68:29450" },
         { "name": "GAME-EU-4", "address": "79.127.241.69:29450" },
         { "name": "GAME-EU-5XS", "address": "89.222.124.35:29450" },
-        { "name": "GAME-EU-6XS", "address": "89.222.124.36:29450" }
+        { "name": "GAME-EU-6XS", "address": "89.222.124.36:29450" },
+         { "name": "GAME-EU-7", "address": "152.233.7.40:29450" },
+         { "name": "GAME-EU-8", "address": "152.233.7.41:29450" }
       ]
     },
     {
@@ -220,5 +222,6 @@
   ],
   "clientToTunnelRttWeight": 1
 }
+
 
 
